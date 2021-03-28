@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Segmented</string>
+    <string name="tab_principal">Reloj actual</string>
+    <string name="tab_relojes">Relojes</string>
+    <string name="tab_creador">Nuevo reloj</string>
+    <string name="todo">TODO</string>
+    <string name="segmented">Segmented</string>
+</resources>
